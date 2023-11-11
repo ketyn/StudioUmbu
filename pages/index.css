@@ -1,7 +1,7 @@
-@import 'header.css';
-@import 'section1.css';
-@import 'section2.css';
-@import 'section3.css';
-@import 'footer.css';
+@import '../global/global.css';
 
-@import '../global/global.css'
+@import 'partials/header.css';
+@import 'partials/section1.css';
+@import 'partials/section2.css';
+@import 'partials/section3.css';
+@import 'partials/footer.css';
